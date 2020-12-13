@@ -1,0 +1,202 @@
+###### Ultimate Git Ignore // See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+###### Frontend ######
+
+### Dependencies ###
+node_modules/
+node_modules
+*/node_modules
+/.pnp
+.pnp.js
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+### IDE ###
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+### Testing ###
+/coverage
+
+### Production ###
+/build
+web-build/
+
+### Misc ###
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+yarn.lock
+*/yarn.lock
+package-lock.json
+.eslintcache
+prepros.config
+.yarn
+*/.yarn
+.yarnrc.yml
+.pnp.cjs
+.pnp.loader.mjs
+*.pem
+deno.lock
+.fleet
+logs
+*.log
+
+### Debug ###
+npm-debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log
+yarn-error.log*
+.pnpm-debug.log*
+
+### Local Env Files ###
+.env
+.env*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+!.env.example
+
+### Server Env Files ###
+/nodemon.json
+
+### Angular ###
+/dist
+/tmp
+/out-tsc
+/bazel-out
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+.DS_Store
+Thumbs.db
+
+### Next.js ###
+.next
+/.next/
+*/.next
+/out/
+
+### Vercel ###
+.vercel
+
+### Firebase ###
+/firebase
+.firebase
+.firebaserc
+firebase.json
+
+### Expo ###
+.expo/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+### Nuxt ###
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+###### Backend ######
+
+### Gradle ###
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+.vscode
+*/.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+### Python ###
+venv/
+venv
+*/venv
+.venv/
+.venv
+*/.venv
+__pycache__/
+__pycache__
+*/__pycache__
+db.sqlite3/
+db.sqlite3
+*/db.sqlite3
+*.pyc/
+*.pyc
+*/*.pyc
+
+
+### Rust ###
+debug/
+target/
+**/*.rs.bk
+*.pdb
+
+### Cloudflare ###
+.wrangler
+.dev.vars
