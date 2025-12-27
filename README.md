@@ -1,8 +1,8 @@
-![React Ventures Banner](https://raw.githubusercontent.com/heyitsjoealongi/react-ventures/master/public/react-ventures.png)
+![React Ventures Banner](https://raw.githubusercontent.com/joealongi/react-ventures/master/public/react-ventures.png)
 
 # React Ventures
 
-![Version](https://img.shields.io/badge/version-2.3.0-blue.svg?cacheSeconds=2592000) [![License: MIT ](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/heyitsjoealongi/react-ventures/blob/master/LICENSE) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-ventures.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-ventures?ref=badge_small)
+![Version](https://img.shields.io/badge/version-2.3.0-blue.svg?cacheSeconds=2592000) [![License: MIT ](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/joealongi/react-ventures/blob/master/LICENSE)
 
 React Ventures for building applications in React.js with Bootstrap utilizing the [Next.js](https://vercel.com/) framework (Vercel) for simplified [Node.js](https://nodejs.org/en/) configuration available by [Open Source](https://opensource.org/).
 
@@ -26,7 +26,7 @@ React Ventures is a template for React & Next.js utilizing frameworks for quickl
 ![GitHub stars](https://img.shields.io/github/stars/joealongi/react-ventures?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/joealongi?label=Follow&style=social)
 
 - Website: [joealongi.dev](https://joealongi.dev/)
-- Twitter: [@joealongi](https://twitter.com/joealongi/)
+- X: [@joealongi](https://x.com/joealongi)
 - GitHub: [@joealongi](https://github.com/joealongi/)
 - LinkedIn: [@joe-alongi](https://www.linkedin.com/in/joe-alongi/)
 
@@ -53,14 +53,14 @@ This project runs on Node.js while the DOM UI elements are established using Rea
 
 ### Installation
 
-- **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/heyitsjoealongi/react-ventures/archive/master.zip)
+- **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/joealongi/react-ventures/archive/master.zip)
 - **Option 2.)** Clone this repository
 
 ```
-                  git clone https://github.com/heyitsjoealongi/react-ventures.git
+                  git clone https://github.com/joealongi/react-ventures.git
 ```
 
-- **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/heyitsjoealongi/react-ventures)
+- **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/joealongi/react-ventures)
 
 ### Basic Usage
 
@@ -98,11 +98,11 @@ yarn upgrade-interactive
 
 Create a [Vercel](https://vercel.com/) account, choose a project name, and connect a GitHub, GitLab, or BitBucket account to push to the master branch of the repository. Quickly deploy with a cloned version of the reposity.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/heyitsjoealongi/react-ventures.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/project?template=https://github.com/joealongi/react-ventures.git)
 
 ##### Option 1: Deploy from Repository
 
-[Clone Repo](x-github-client://openRepo/https://github.com/heyitsjoealongi/react-ventures)
+[Clone Repo](x-github-client://openRepo/https://github.com/joealongi/react-ventures)
 
 ##### Option 2: Deploy from Git
 
@@ -116,7 +116,7 @@ Configure your deploy branch, settings, and domain within [Vercel](https://verce
 
 ##### Bugs and Issues
 
-Having an issue with the template? Report bugs & issues with React Ventures on GitHub via [Issues](https://github.com/heyitsjoealongi/react-ventures/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [Twitter](https://twitter.com/heyitsjoealongi).
+Having an issue with the template? Report bugs & issues with React Ventures on GitHub via [Issues](https://github.com/joealongi/react-ventures/issues). Fork, Pull, or Send an email over to join as a contributor! Join in on the open source conversation on [Twitter](https://twitter.com/joealongi).
 
 ##### Acknowledgments
 
@@ -132,6 +132,4 @@ Having an issue with the template? Report bugs & issues with React Ventures on G
 
 ##### License
 
-© 2023 React Ventures released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Ventures License](https://github.com/heyitsjoealongi/react-ventures/blob/master/LICENSE).
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-ventures.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fheyitsjoealongi%2Freact-ventures?ref=badge_large)
+© 2023 React Ventures released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Ventures License](https://github.com/joealongi/react-ventures/blob/master/LICENSE).
